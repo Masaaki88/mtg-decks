@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Nylea</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Vivien, Arkbow Ranger"/>
+        <card number="4" name="Llanowar Elves"/>
+        <card number="4" name="Avatar of the Resolute"/>
+        <card number="4" name="Predator Ooze"/>
+        <card number="4" name="Reverent Hunter"/>
+        <card number="3" name="Yorvo, Lord of Garenbrig"/>
+        <card number="3" name="Nylea, God of the Hunt"/>
+        <card number="3" name="Nylea, Keen-Eyed"/>
+        <card number="3" name="Gigantosaurus"/>
+        <card number="3" name="Primalcrux"/>
+        <card number="3" name="Khalni Hydra"/>
+        <card number="3" name="Renata, Called to the Hunt"/>
+        <card number="21" name="Forest"/>
+    </zone>
+</cockatrice_deck>

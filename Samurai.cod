@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Samurai</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Call to Glory"/>
+        <card number="4" name="Devoted Retainer"/>
+        <card number="4" name="Hand of Honor"/>
+        <card number="4" name="Indebted Samurai"/>
+        <card number="4" name="Kitsune Blademaster"/>
+        <card number="2" name="Konda, Lord of Eiganjo"/>
+        <card number="2" name="Konda's Banner"/>
+        <card number="4" name="Konda's Hatamoto"/>
+        <card number="4" name="Nagao, Bound by Honor"/>
+        <card number="2" name="Oathkeeper, Takeno's Daisho"/>
+        <card number="4" name="Samurai of the Pale Curtain"/>
+        <card number="2" name="Takeno, Samurai General"/>
+        <card number="20" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Bushi Tenderfoot"/>
+        <card number="4" name="Kentaro, the Smiling Cat"/>
+        <card number="4" name="Kitsune Dawnblade"/>
+        <card number="4" name="Opal-Eye, Konda's Yojimbo"/>
+        <card number="4" name="Samurai Enforcers"/>
+        <card number="4" name="Sensei Golden-Tail"/>
+        <card number="4" name="Silverstorm Samurai"/>
+        <card number="4" name="Takeno's Cavalry"/>
+        <card number="4" name="Cage of Hands"/>
+        <card number="4" name="Cowed by Wisdom"/>
+        <card number="4" name="Ghostly Prison"/>
+        <card number="4" name="Blessed Breath"/>
+        <card number="4" name="Inner-Chamber Guard"/>
+        <card number="4" name="Mothrider Samurai"/>
+        <card number="1" name="Oathkeeper, Takeno's Daisho"/>
+        <card number="4" name="Descendant of Kiyomaro"/>
+        <card number="4" name="Araba Mothrider"/>
+    </zone>
+</cockatrice_deck>

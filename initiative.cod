@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Thalia, Guardian of Thraben"/>
+        <card number="4" name="Chancellor of the Annex"/>
+        <card number="4" name="Esper Sentinel"/>
+        <card number="4" name="Solitude"/>
+        <card number="2" name="Timeless Dragon"/>
+        <card number="4" name="Seasoned Dungeoneer"/>
+        <card number="4" name="Chrome Mox"/>
+        <card number="1" name="Retrofitter Foundry"/>
+        <card number="1" name="Shadowspear"/>
+        <card number="1" name="Soul-Guide Lantern"/>
+        <card number="4" name="Swords to Plowshares"/>
+        <card number="1" name="Emeria's Call"/>
+        <card number="4" name="Urza's Saga"/>
+        <card number="4" name="Touch the Spirit Realm"/>
+        <card number="4" name="Plains"/>
+        <card number="2" name="Karakas"/>
+        <card number="4" name="Ancient Tomb"/>
+        <card number="4" name="Wasteland"/>
+        <card number="1" name="Eiganjo, Seat of the Empire"/>
+        <card number="3" name="Cavern of Souls"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Grafdigger's Cage"/>
+        <card number="1" name="Pithing Needle"/>
+        <card number="1" name="Surgical Extraction"/>
+        <card number="2" name="Kataki, War's Wage"/>
+        <card number="4" name="Faerie Macabre"/>
+        <card number="2" name="Containment Priest"/>
+        <card number="2" name="Deafening Silence"/>
+        <card number="2" name="Loran of the Third Path"/>
+    </zone>
+</cockatrice_deck>

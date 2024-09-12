@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Vampires</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Sorin, Imperious Bloodlord"/>
+        <card number="2" name="Sorin, Lord of Innistrad"/>
+        <card number="2" name="Sorin, Vampire Lord"/>
+        <card number="4" name="Cordial Vampire"/>
+        <card number="4" name="Legion Lieutenant"/>
+        <card number="4" name="Captivating Vampire"/>
+        <card number="4" name="Mavren Fein, Dusk Apostle"/>
+        <card number="4" name="Nighthawk Scavenger"/>
+        <card number="4" name="Bloodline Keeper"/>
+        <card number="4" name="Vampire Nocturnus"/>
+        <card number="4" name="Bloodlord of Vaasgoth"/>
+        <card number="4" name="Caves of Koilos"/>
+        <card number="4" name="Fetid Heath"/>
+        <card number="4" name="Godless Shrine"/>
+        <card number="4" name="Silent Clearing"/>
+        <card number="6" name="Swamp"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Sorin, Lord of Innistrad (Emblem)"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Lord of Lineage"/>
+    </zone>
+</cockatrice_deck>

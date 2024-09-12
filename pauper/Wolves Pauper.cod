@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Wolves Pauper</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Hinterland Logger"/>
+        <card number="4" name="Scorned Villager"/>
+        <card number="4" name="Ulvenwald Captive"/>
+        <card number="4" name="Villagers of Estwald"/>
+        <card number="4" name="Solitary Hunter"/>
+        <card number="4" name="Grizzled Outcasts"/>
+        <card number="4" name="Snakeskin Veil"/>
+        <card number="4" name="Moonmist"/>
+        <card number="4" name="Waxing Moon"/>
+        <card number="3" name="Band Together"/>
+        <card number="21" name="Forest"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Amulet Titan</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Arboreal Grazer"/>
+        <card number="3" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Azusa, Lost but Seeking"/>
+        <card number="4" name="Dryad of the Ilysian Grove"/>
+        <card number="4" name="Primeval Titan"/>
+        <card number="2" name="Cultivator Colossus"/>
+        <card number="4" name="Summoner's Pact"/>
+        <card number="4" name="Amulet of Vigor"/>
+        <card number="1" name="Expedition Map"/>
+        <card number="1" name="Boros Garrison"/>
+        <card number="2" name="Boseiju, Who Endures"/>
+        <card number="2" name="Castle Garenbrig"/>
+        <card number="3" name="Cavern of Souls"/>
+        <card number="4" name="Forest"/>
+        <card number="2" name="Gruul Turf"/>
+        <card number="1" name="Radiant Fountain"/>
+        <card number="3" name="Selesnya Sanctuary"/>
+        <card number="4" name="Simic Growth Chamber"/>
+        <card number="1" name="Slayers' Stronghold"/>
+        <card number="1" name="Sunhome, Fortress of the Legion"/>
+        <card number="2" name="Tolaria West"/>
+        <card number="4" name="Urza's Saga"/>
+        <card number="2" name="Valakut, the Molten Pinnacle"/>
+        <card number="1" name="Vesuva"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Bojuka Bog"/>
+        <card number="1" name="Boseiju, Who Endures"/>
+        <card number="2" name="Engineered Explosives"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Khalni Garden"/>
+        <card number="1" name="Relic of Progenitus"/>
+        <card number="4" name="Hydroid Krasis"/>
+        <card number="2" name="Endurance"/>
+        <card number="2" name="Force of Vigor"/>
+    </zone>
+</cockatrice_deck>

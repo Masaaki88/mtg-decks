@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Angels</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Serra the Benevolent"/>
+        <card number="4" name="Youthful Valkyrie"/>
+        <card number="4" name="Resplendent Angel"/>
+        <card number="4" name="Righteous Valkyrie"/>
+        <card number="2" name="Gisela, the Broken Blade"/>
+        <card number="2" name="Linvala, Keeper of Silence"/>
+        <card number="3" name="Lyra Dawnbringer"/>
+        <card number="2" name="Bruna, the Fading Light"/>
+        <card number="2" name="Sephara, Sky's Blade"/>
+        <card number="4" name="Swords to Plowshares"/>
+        <card number="3" name="Wrath of God"/>
+        <card number="4" name="Luminarch Ascension"/>
+        <card number="3" name="Moat"/>
+        <card number="21" name="Plains"/>
+    </zone>
+</cockatrice_deck>

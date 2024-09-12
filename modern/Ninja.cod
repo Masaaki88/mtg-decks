@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ninja</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Fallen Shinobi"/>
+        <card number="2" name="Higure, the Still Wind"/>
+        <card number="4" name="Ingenious Infiltrator"/>
+        <card number="2" name="Ink-Eyes, Servant of Oni"/>
+        <card number="4" name="Mist-Syndicate Naga"/>
+        <card number="4" name="Throat Slitter"/>
+        <card number="4" name="Gudul Lurker"/>
+        <card number="4" name="Changeling Outcast"/>
+        <card number="4" name="Darkslick Shores"/>
+        <card number="4" name="Island"/>
+        <card number="4" name="Sunken Ruins"/>
+        <card number="1" name="Swamp"/>
+        <card number="4" name="Underground River"/>
+        <card number="4" name="Watery Grave"/>
+        <card number="4" name="Slither Blade"/>
+        <card number="4" name="Artful Dodge"/>
+        <card number="4" name="Curious Obsession"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Polluted Delta"/>
+        <card number="2" name="Higure, the Still Wind"/>
+        <card number="1" name="Fallen Shinobi"/>
+        <card number="2" name="Ink-Eyes, Servant of Oni"/>
+        <card number="4" name="Ninja of the Deep Hours"/>
+        <card number="4" name="Silent-Blade Oni"/>
+        <card number="4" name="Sakashima's Student"/>
+        <card number="4" name="Walker of Secret Ways"/>
+        <card number="4" name="Yuriko, the Tiger's Shadow"/>
+    </zone>
+</cockatrice_deck>

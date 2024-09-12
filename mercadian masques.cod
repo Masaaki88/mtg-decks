@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>mercadian masques</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Accumulated Knowledge"/>
+        <card number="4" name="Brainstorm"/>
+        <card number="4" name="Bribery"/>
+        <card number="3" name="Coastal Piracy"/>
+        <card number="4" name="Dehydration"/>
+        <card number="4" name="Rishadan Airship"/>
+        <card number="4" name="Saprazzan Heir"/>
+        <card number="4" name="Stinging Barrier"/>
+        <card number="4" name="Timid Drake"/>
+        <card number="4" name="Troublesome Spirit"/>
+        <card number="21" name="Island"/>
+    </zone>
+</cockatrice_deck>

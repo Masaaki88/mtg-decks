@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Stompy</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Quirion Ranger"/>
+        <card number="4" name="Skarrgan Pit-Skulk"/>
+        <card number="4" name="Den Protector"/>
+        <card number="4" name="Silhana Ledgewalker"/>
+        <card number="4" name="Berserk"/>
+        <card number="4" name="Blossoming Defense"/>
+        <card number="1" name="Crop Rotation"/>
+        <card number="4" name="Groundswell"/>
+        <card number="4" name="Might of Old Krosa"/>
+        <card number="4" name="Once Upon a Time"/>
+        <card number="4" name="Rancor"/>
+        <card number="2" name="Pendelhaven"/>
+        <card number="17" name="Forest"/>
+    </zone>
+</cockatrice_deck>

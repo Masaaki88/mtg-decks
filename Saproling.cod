@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Saproling</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Utopia Mycon"/>
+        <card number="4" name="Sporecrown Thallid"/>
+        <card number="4" name="Vitaspore Thallid"/>
+        <card number="4" name="Psychotrope Thallid"/>
+        <card number="4" name="Sporesower Thallid"/>
+        <card number="4" name="Thelonite Hermit"/>
+        <card number="3" name="Mycoloth"/>
+        <card number="4" name="Sporoloth Ancient"/>
+        <card number="4" name="Tendershoot Dryad"/>
+    </zone>
+</cockatrice_deck>

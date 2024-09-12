@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Elemental</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Flamekin Harbinger"/>
+        <card number="4" name="Brighthearth Banneret"/>
+        <card number="4" name="Creeping Trailblazer"/>
+        <card number="4" name="Smokebraider"/>
+        <card number="4" name="Thunderkin Awakener"/>
+        <card number="4" name="Incandescent Soulstoke"/>
+        <card number="4" name="Overgrowth Elemental"/>
+        <card number="4" name="Risen Reef"/>
+        <card number="4" name="Master of Waves"/>
+        <card number="3" name="Omnath, Locus of the Roil"/>
+        <card number="4" name="Ancient Ziggurat"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Mountain"/>
+        <card number="4" name="Primal Beyond"/>
+        <card number="4" name="Prismatic Vista"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="2" name="Stomping Ground"/>
+        <card number="1" name="Wooded Foothills"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Planeswalkers</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ajani Vengeant"/>
+        <card number="1" name="Chandra, Torch of Defiance"/>
+        <card number="1" name="Garruk Relentless"/>
+        <card number="1" name="Narset of the Ancient Way"/>
+        <card number="1" name="Tamiyo, Field Researcher"/>
+        <card number="1" name="Nicol Bolas, Dragon-God"/>
+        <card number="1" name="Ob Nixilis Reignited"/>
+        <card number="1" name="Vraska the Unseen"/>
+        <card number="1" name="Ajani Unyielding"/>
+        <card number="1" name="Chandra, Awakened Inferno"/>
+        <card number="1" name="Chandra, Bold Pyromancer"/>
+        <card number="1" name="Chandra, Flamecaller"/>
+        <card number="1" name="Garruk, Cursed Huntsman"/>
+        <card number="1" name="Liliana, Dreadhorde General"/>
+        <card number="1" name="Sorin, Grim Nemesis"/>
+        <card number="1" name="Ugin, the Ineffable"/>
+        <card number="1" name="Karn Liberated"/>
+        <card number="1" name="Nicol Bolas, God-Pharaoh"/>
+        <card number="1" name="Nicol Bolas, Planeswalker"/>
+        <card number="1" name="Ugin, the Spirit Dragon"/>
+        <card number="4" name="Oath of Nissa"/>
+        <card number="4" name="Oath of Ajani"/>
+        <card number="4" name="Oath of Gideon"/>
+        <card number="4" name="Oath of Kaya"/>
+        <card number="4" name="Oath of Liliana"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="3" name="Godless Shrine"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="2" name="Marsh Flats"/>
+        <card number="3" name="Overgrown Tomb"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="3" name="Temple Garden"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Watery Grave"/>
+        <card number="2" name="Windswept Heath"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Chandra, Torch of Defiance (Emblem)"/>
+        <card number="1" name="Narset of the Ancient Way (Emblem)"/>
+        <card number="1" name="Tamiyo, Field Researcher (Emblem)"/>
+        <card number="1" name="Ob Nixilis Reignited (Emblem)"/>
+        <card number="1" name="Chandra, Awakened Inferno (Emblem)"/>
+        <card number="1" name="Garruk, Cursed Huntsman (Emblem)"/>
+    </zone>
+</cockatrice_deck>

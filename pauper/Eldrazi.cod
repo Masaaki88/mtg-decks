@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Eldrazi</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Nest Invader"/>
+        <card number="4" name="Scion Summoner"/>
+        <card number="4" name="Eyeless Watcher"/>
+        <card number="4" name="Kozilek's Predator"/>
+        <card number="4" name="Warden of Geometries"/>
+        <card number="4" name="Kozilek's Channeler"/>
+        <card number="3" name="Ulamog's Crusher"/>
+        <card number="3" name="Hand of Emrakul"/>
+        <card number="4" name="Call the Scions"/>
+        <card number="4" name="Growth Spasm"/>
+        <card number="22" name="Forest"/>
+    </zone>
+</cockatrice_deck>

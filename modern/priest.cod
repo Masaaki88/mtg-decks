@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>priest</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Liliana, Dreadhorde General"/>
+        <card number="4" name="Nested Shambler"/>
+        <card number="4" name="Butcher Ghoul"/>
+        <card number="4" name="Carrier Thrall"/>
+        <card number="4" name="Lazotep Reaver"/>
+        <card number="4" name="Orzhov Enforcer"/>
+        <card number="4" name="Priest of Forgotten Gods"/>
+        <card number="3" name="Ayara, First of Locthwain"/>
+        <card number="2" name="Liliana, Heretical Healer"/>
+        <card number="4" name="Midnight Reaper"/>
+        <card number="4" name="Pawn of Ulamog"/>
+        <card number="21" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Ayara, First of Locthwain"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Exalted</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Noble Hierarch"/>
+        <card number="4" name="Qasali Pridemage"/>
+        <card number="4" name="Sigiled Paladin"/>
+        <card number="4" name="Dawnray Archer"/>
+        <card number="4" name="Giltspire Avenger"/>
+        <card number="4" name="Rafiq of the Many"/>
+        <card number="4" name="Sublime Archangel"/>
+        <card number="4" name="Battlegrace Angel"/>
+        <card number="3" name="Angelic Benediction"/>
+        <card number="3" name="Finest Hour"/>
+        <card number="4" name="Cathedral of War"/>
+        <card number="4" name="Hallowed Fountain"/>
+        <card number="4" name="Horizon Canopy"/>
+        <card number="4" name="Mystic Gate"/>
+        <card number="4" name="Temple Garden"/>
+        <card number="2" name="Wooded Bastion"/>
+    </zone>
+</cockatrice_deck>

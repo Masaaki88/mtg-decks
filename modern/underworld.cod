@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Underworld</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Ob Nixilis Reignited"/>
+        <card number="2" name="Ob Nixilis, the Hate-Twisted"/>
+        <card number="4" name="Fate Unraveler"/>
+        <card number="4" name="Howling Golem"/>
+        <card number="3" name="Rankle, Master of Pranks"/>
+        <card number="4" name="Runed Servitor"/>
+        <card number="3" name="Seizan, Perverter of Truth"/>
+        <card number="4" name="Font of Mythos"/>
+        <card number="4" name="Howling Mine"/>
+        <card number="4" name="Temple Bell"/>
+        <card number="4" name="Underworld Dreams"/>
+        <card number="2" name="Geier Reach Sanitarium"/>
+        <card number="2" name="Mikokoro, Center of the Sea"/>
+        <card number="18" name="Swamp"/>
+    </zone>
+    <zone name="tokens">
+        <card number="1" name="Ob Nixilis Reignited (Emblem)"/>
+    </zone>
+</cockatrice_deck>
